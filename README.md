@@ -1,2 +1,3 @@
-# elk-lab
-A lab enviroment which creates an ELK Stack ubuntu server which manages multiple endpoints with elastic agents.
+# Elastic Search IDS
+
+This is a lab enviroment which creates an elasticsearch ubuntu server which manages endpoint security with elastic agents. 
