@@ -29,7 +29,7 @@ The environment consists of:
 ## Future Improvements
 - Implement custom detection rules.
 - Integrate with external log sources (e.g., Sysmon, Suricata).
-- Automate deployment with scripts.
+- Automate deployment with Ansible playbook.
 
 ---
 🔹 *This project is a hands-on learning experience in setting up a security monitoring solution with Elasticsearch.*  
