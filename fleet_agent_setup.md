@@ -58,4 +58,4 @@ After adding the agent, you will see its hostname with the **Healthy** status.
 <img width="1000" alt="Screenshot 2025-02-26 at 21 12 31" src="https://github.com/user-attachments/assets/caa5f9a4-e8dc-46c1-9c85-9e982e49ebed" />
 
 ---
-[Next: Integrations](integrations.md)
+[Next: Integrations and Testing](integration_testing.md)
