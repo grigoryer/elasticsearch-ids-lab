@@ -20,7 +20,7 @@ The environment consists of:
 1. **[Environment Setup](environment_setup.md)** – Configure the virtual machines, network and servers.
 2. **[Elasticsearch & Kibana](elasticsearch_installation.md)** – Install and configure the core Elastic services.
 3. **[Fleet Agent Setup](fleet_agent_setup.md)** – Deploy and configure Fleet and Elastic Agents.
-4. **[Integrations](integration_testing.md)** – Add security integration, and test rule with a Brute Force Attack.
+4. **[Integration and Testing](integration_testing.md)** – Add security integration, and test rule with a Brute Force Attack.
 
 ## Usage
 - Access Kibana via: `http://[Server-IP]:5601`
