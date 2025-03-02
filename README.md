@@ -1,7 +1,7 @@
-# Elastic Search IDS
+# Elastic Search SIEM
 
 ## Overview
-This project sets up an **Elasticsearch-based Intrusion Detection System (IDS)** using an Ubuntu-based Elastic Stack. It centralizes security monitoring by collecting and analyzing endpoint data through **Elastic Agents**.
+This project sets up an **Elasticsearch-based Security information and event management (SIEM)** using an Ubuntu-based Elastic Stack. It centralizes security monitoring by collecting and analyzing endpoint data through **Elastic Agents**.
 
 ## Features
 - **Centralized Security Monitoring** – Collect logs, metrics, and security events from multiple endpoints.
